@@ -485,10 +485,6 @@ echo "Creating Admin Only Domain"
 create_adminDomain
 echo "Completed Admin Only Domain"
 
-echo "Deploying Sample Application"
-deploy_sampleApp
-echo "Completed Depploying Application"
-
 cleanup
 
 echo "Creating services for Nodemanager and Admin server"
